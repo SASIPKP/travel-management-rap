@@ -1,0 +1,24 @@
+# Build output
+dist/
+resources/
+mta_archives/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+
+# Archives
+*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
