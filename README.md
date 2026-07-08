@@ -135,7 +135,7 @@ SAP Build Work Zone
 
 ### SAP Build Work Zone
 
-![Work Zone](screenshots/01-workzone-home.png)
+![Work Zone](screenshots/01-workzone-tile.png)
 
 ---
 
